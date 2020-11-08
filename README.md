@@ -16,3 +16,12 @@ The user should be able to:
 * Sort the table by at least one category
 
 * Filter the users by at least one property.
+
+DIRECTIONS
+
+Copy and paste the repository and in the project directory, you can run:
+
+npm start
+
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser.
